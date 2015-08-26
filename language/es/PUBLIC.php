@@ -5,7 +5,7 @@
 
 // Site Title
 $LNG['siteTitleIndex']				= 'Index';
-$LNG['siteTitleRegister']			= 'Register';
+$LNG['siteTitleRegister']			= 'Registro';
 $LNG['siteTitleScreens']			= 'Screenshots';
 $LNG['siteTitleBanList']			= 'Banned Hall';
 $LNG['siteTitleBattleHall']			= 'Battle Hall';
