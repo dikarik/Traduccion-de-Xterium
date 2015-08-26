@@ -4,97 +4,97 @@
 // 2Moons - Copyright (C) 2010-2012 Jän Kropke
 
 // Site Title
-$LNG['siteTitleIndex']				= 'Index';
+$LNG['siteTitleIndex']				= 'Inicio';
 $LNG['siteTitleRegister']			= 'Registro';
-$LNG['siteTitleScreens']			= 'Screenshots';
-$LNG['siteTitleBanList']			= 'Banned Hall';
-$LNG['siteTitleBattleHall']			= 'Battle Hall';
-$LNG['siteTitleRules']				= 'Rules';
-$LNG['siteTitleNews']				= 'News';
-$LNG['siteTitleDisclamer']			= 'Contacts';
-$LNG['siteTitleLostPassword']		= 'Lost Password?';
+$LNG['siteTitleScreens']			= 'Capturas de pantalla';
+$LNG['siteTitleBanList']			= 'Baneados';
+$LNG['siteTitleBattleHall']			= 'Hall de la batalla';
+$LNG['siteTitleRules']				= 'Reglas';
+$LNG['siteTitleNews']				= 'Noticias';
+$LNG['siteTitleDisclamer']			= 'Contactos';
+$LNG['siteTitleLostPassword']		= 'Contraseña perdida?';
 
 // Menu
-$LNG['forum']						= 'Forum';
-$LNG['menu_index']					= 'Index';
-$LNG['menu_news']					= 'News';
-$LNG['menu_rules']					= 'Rules';
-$LNG['menu_banlist']				= 'Banned Hall';
-$LNG['menu_battlehall']				= 'Battle Hall';
-$LNG['menu_disclamer']				= 'Contacts';
-$LNG['menu_register']				= 'Registration';
+$LNG['forum']						= 'Foro';
+$LNG['menu_index']					= 'Inicio';
+$LNG['menu_news']					= 'Noticias';
+$LNG['menu_rules']					= 'Reglas';
+$LNG['menu_banlist']				= 'Baneados';
+$LNG['menu_battlehall']				= 'Hall de la batalla';
+$LNG['menu_disclamer']				= 'Contactos';
+$LNG['menu_register']				= 'Registro';
 
 // Universe select
-$LNG['chose_a_uni']					= 'Choose the Universe';
-$LNG['universe']					= 'Universe';
-$LNG['uni_closed']					= ' (closed)';
+$LNG['chose_a_uni']					= 'Elegir universo';
+$LNG['universe']					= 'Universo';
+$LNG['uni_closed']					= ' (Cerrado)';
 
 // Button
-$LNG['buttonRegister']				= 'Regist Now!';
-$LNG['buttonScreenshot']			= 'Screenshots';
-$LNG['buttonLostPassword']			= 'Lost Password?';
+$LNG['buttonRegister']				= 'Registrate!';
+$LNG['buttonScreenshot']			= 'Capturas de pantalla';
+$LNG['buttonLostPassword']			= 'Contraseña perdida?';
 
 // Start
 $LNG['gameInformations']			= array(
-	'A space strategy game in real time.',
-	'Game with hundreds of users.',
-	'No download, it only requires a standard browser.',
-	'Free registration',
+	'Un juego de estrategia espacial en tiempo real.',
+'Juego con cientos de usuarios.',
+'No se descarga, sólo se requiere un navegador estándar.',
+'Inscripción gratuita',
 );
 
 // Login
-$LNG['loginHeader']					= 'Login';
-$LNG['loginUsername']				= 'Username';
+$LNG['loginHeader']					= 'Iniciar sesion';
+$LNG['loginUsername']				= 'Usuario';
 $LNG['loginEmail']				= 'E-mail';
-$LNG['loginPassword']				= 'Password';
-$LNG['loginButton']					= 'Login';
-$LNG['loginInfo']					= 'With the login I accept the %s.';
-$LNG['loginWelcome']				= 'Welcome to %s';
-$LNG['loginServerDesc']				= '%s is a space strategy game with hundreds of players playing together <strong>at the same time</strong> trying to be the best. Everything what you need to the play is a Standard Browser.';
+$LNG['loginPassword']				= 'Contraseña';
+$LNG['loginButton']					= 'Inicio';
+$LNG['loginInfo']					= 'Con el registro acepto los %s.';
+$LNG['loginWelcome']				= 'Bienvenido a %s';
+$LNG['loginServerDesc']				= '%s es un juego de estrategia en el espacio con cientos de jugadores jugando juntos <strong> al mismo tiempo tratar de ser el mejor. Todo lo que necesita para jugar es un navegador estándar.';
 
 // Register
-$LNG['registerFacebookAccount']		= 'Facebook Account';
-$LNG['registerUsername']			= 'Username';
-$LNG['registerUsernameDesc']		= 'The Username must be at least 3 and maximum of 25 characters and points, and may consist of numbers, letters, underscores and spaces';
-$LNG['registerPassword']			= 'Password';
-$LNG['registerPasswordDesc']		= 'The password must be at least 8 characters long.';
-$LNG['registerPasswordReplay']		= 'Repeat Password';
-$LNG['registerPasswordReplayDesc']	= 'Please enter the same password.';
+$LNG['registerFacebookAccount']		= 'Cuenta de Facebook';
+$LNG['registerUsername']			= 'Usuario';
+$LNG['registerUsernameDesc']		= 'El nombre de usuario debe tener al menos 3 y un máximo de 25 caracteres y puntos, y puede consistir en números, letras, guiones bajos y espacios';
+$LNG['registerPassword']			= 'Contraseña';
+$LNG['registerPasswordDesc']		= 'La contraseña debe tener al menos 8 caracteres de longitud.';
+$LNG['registerPasswordReplay']		= 'Repetir contraseña';
+$LNG['registerPasswordReplayDesc']	= 'Por favor, introduzca la misma contraseña.';
 $LNG['registerEmail']				= 'E-Mail';
-$LNG['registerEmailDesc']			= 'Please enter your E-Mail address!';
-$LNG['registerEmailReplay']			= 'Repeat E-Mail';
-$LNG['registerEmailReplayDesc']		= 'Please input of your email address once again to the security!';
-$LNG['registerLanguage']			= 'Language';
-$LNG['registerReferral']			= 'Advertised by:';
-$LNG['registerCaptcha']				= 'Security code';
-$LNG['registerCaptchaDesc']			= 'Please enter the characters below in the empty field. There does not have case sensitivity';
-$LNG['registerCaptchaReload']		= 'Reload Captcha.';
-$LNG['registerRules']				= 'Rules';
-$LNG['registerRulesDesc']			= 'I agree with the %s';
+$LNG['registerEmailDesc']			= 'Por favor, introduzca su dirección de correo electrónico!';
+$LNG['registerEmailReplay']			= 'Repite E-Mail';
+$LNG['registerEmailReplayDesc']		= 'Por favor, introduzca su dirección de correo electrónico, una vez más a la seguridad!';
+$LNG['registerLanguage']			= 'Lenguaje';
+$LNG['registerReferral']			= 'Anunciado por:';
+$LNG['registerCaptcha']				= 'Código de seguridad';
+$LNG['registerCaptchaDesc']			= 'Por favor ingrese los caracteres a continuación en el campo vacío. No tiene por mayúsculas y minúsculas';
+$LNG['registerCaptchaReload']		= 'Recargar Captcha.';
+$LNG['registerRules']				= 'Reglas';
+$LNG['registerRulesDesc']			= 'Estoy de acuerdo con la %s';
 
-$LNG['registerBack']				= 'Back';
-$LNG['registerNext']				= 'Next';
+$LNG['registerBack']				= 'Atras';
+$LNG['registerNext']				= 'Siguiente';
 
-$LNG['registerErrorUniClosed']		= 'The registration is closed in this universe.!';
-$LNG['registerErrorUsernameEmpty']	= 'You must enter a username!';
-$LNG['registerErrorUsernameChar']	= 'Your username must consist in numbers, Letters, Spaces, _, -, . only!';
-$LNG['registerErrorUsernameExist']	= 'The username is already taken!';
-$LNG['registerErrorPasswordLength']	= 'The password must be at least 6 characters long!';
-$LNG['registerErrorPasswordSame']	= 'Entering 2 different Passwords!';
-$LNG['registerErrorMailEmpty']		= 'You must specify an E-Mail address!';
-$LNG['registerErrorMailInvalid']	= 'Invalid E-Mail address!';
-$LNG['registerErrorMailInvalid2']	= 'We dont accept 10minutes mails!';
-$LNG['registerErrorMailSame']		= 'You have specified 2 different email addresses!';
-$LNG['registerErrorMailExist']		= 'The E-Mail address is already registered!';
-$LNG['registerErrorRules']			= 'You have to accept the rules!';
-$LNG['registerErrorCaptcha']		= 'The security code is incorrect!';
+$LNG['registerErrorUniClosed']		= 'El registro está cerrado en este universo.!';
+$LNG['registerErrorUsernameEmpty']	= 'Debe ingresar un nombre de usuario!';
+$LNG['registerErrorUsernameChar']	= 'Su nombre de usuario debe consistir en números, letras, espacios!';
+$LNG['registerErrorUsernameExist']	= 'El nombre de usuario ya está en uso!';
+$LNG['registerErrorPasswordLength']	= 'La contraseña debe tener al menos 6 caracteres de longitud!';
+$LNG['registerErrorPasswordSame']	= 'Introduzca 2 contraseñas diferentes!';
+$LNG['registerErrorMailEmpty']		= 'Debe especificar una dirección de correo electrónico!';
+$LNG['registerErrorMailInvalid']	= 'Dirección E-Mail no válida!';
+$LNG['registerErrorMailInvalid2']	= 'No aceptamos E-Mail durante 10 minutos!';
+$LNG['registerErrorMailSame']		= 'Ha especificado 2 direcciones de correo electrónico diferentes!';
+$LNG['registerErrorMailExist']		= 'La dirección de correo electrónico ya está registrado!';
+$LNG['registerErrorRules']			= 'Aceptas las reglas!';
+$LNG['registerErrorCaptcha']		= 'El código de seguridad es incorrecto!';
 
-$LNG['registerMailVertifyTitle']	= 'Activation of registration on the game: %s';
-$LNG['registerMailVertifyError']	= 'Failed to send mail: %s';
+$LNG['registerMailVertifyTitle']	= 'La activación de la inscripción en el juego: %s';
+$LNG['registerMailVertifyError']	= 'Error al enviar el correo: %s';
 
-$LNG['registerMailCompleteTitle']	= 'Welcome to %s!';
+$LNG['registerMailCompleteTitle']	= 'Bienvenido a %s!';
 
-$LNG['registerSendComplete']		= 'Thank you for the registration. You must check your email (Attention with the SPAM) with further information.';
+$LNG['registerSendComplete']		= 'Gracias por el registro usted. Usted debe consultar su correo electrónico (atención con el SPAM) con más información.';
 
 $LNG['registerWelcomePMSenderName']	= 'Administrator';
 $LNG['registerWelcomePMSubject']	= 'Welcome';
