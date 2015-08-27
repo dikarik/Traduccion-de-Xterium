@@ -67,7 +67,7 @@ $LNG['registerEmailReplayDesc']		= 'Por favor, introduzca su direccion de correo
 $LNG['registerLanguage']			= 'Lenguaje';
 $LNG['registerReferral']			= 'Anunciado por:';
 $LNG['registerCaptcha']				= 'Codigo de seguridad';
-$LNG['registerCaptchaDesc']			= 'Por favor ingrese los caracteres a continuacion en el campo vacío. No tiene por mayusculas y minusculas';
+$LNG['registerCaptchaDesc']			= 'Por favor ingrese los caracteres a continuacion en el campo vacio. No tiene por mayusculas y minusculas';
 $LNG['registerCaptchaReload']		= 'Recargar Captcha.';
 $LNG['registerRules']				= 'Reglas';
 $LNG['registerRulesDesc']			= 'Estoy de acuerdo con la %s';
@@ -98,7 +98,7 @@ $LNG['registerSendComplete']		= 'Gracias por el registro usted. Usted debe consu
 
 $LNG['registerWelcomePMSenderName']	= 'Administrator';
 $LNG ['registerWelcomePMSubject'] = 'Bienvenido';
-$LNG ['registerWelcomePMText'] = ' Bienvenido a %s! Primero construir una planta de energía solar, porque se necesita energía para la produccion de materias primas. Para construir uno, a la izquierda haga clic en el menu de "edificios". Luego construir el edificio 4 de la parte superior. </br> Cuando tengas energía, usted puede comenzar a construir minas. Ir a los edificios en el menu y construir un metal mina, seguido de un cristal de mina. </br></br> Con el fin de poder construir naves necesita tener un astillero. Para ver lo que se necesita para desbloquear que edificio te puede echar un vistazo a "Tecnologías" en el menu de la izquierda.</br> Si usted mas preguntas usted puede mirar el beginnersguide, nuestro foro o abrir un ticket de soporte. </br></br> El equipo le desea mucha diversion explorando el universo!';
+$LNG ['registerWelcomePMText'] = ' Bienvenido a %s! Primero construir una planta de energia solar, porque se necesita energia para la produccion de materias primas. Para construir uno, a la izquierda haga clic en el menu de "edificios". Luego construir el edificio 4 de la parte superior. </br> Cuando tengas energia, usted puede comenzar a construir minas. Ir a los edificios en el menu y construir un metal mina, seguido de un cristal de mina. </br></br> Con el fin de poder construir naves necesita tener un astillero. Para ver lo que se necesita para desbloquear que edificio te puede echar un vistazo a "Tecnologias" en el menu de la izquierda.</br> Si usted mas preguntas usted puede mirar el beginnersguide, nuestro foro o abrir un ticket de soporte. </br></br> El equipo le desea mucha diversion explorando el universo!';
 
 //Vertify
 
@@ -113,78 +113,78 @@ $LNG ['passwordSubmit'] = 'Enviar';
 $LNG ['passwordErrorUsernameEmpty'] ='no especifico el nombre de usuario.';
 $LNG ['passwordErrorMailEmpty'] = 'Ha especificado una direccion de correo desconocida!';
 $LNG ['passwordErrorUnknown'] = 'no puede ser encontrado con los datos de la cuenta.';
-$LNG ['passwordErrorOnePerDay'] = ' contrase&#241;a para esta cuenta de usuario en las ultimas 24 horas se le pidio anteriormente. Solo puede solicitar la contrase&#241;a para esta cuenta de usuario en las proximas 24 horas. ';
+$LNG ['passwordErrorOnePerDay'] = 'contrase&#241;a para esta cuenta de usuario en las ultimas 24 horas se le pidio anteriormente. Solo puede solicitar la contrase&#241;a para esta cuenta de usuario en las proximas 24 horas.';
 
-$LNG['passwordValidMailTitle']		= 'Forgot my password on the game: %s';
-$LNG['passwordValidMailSend']		= 'You will receive an email shortly with further information.';
+$LNG['passwordValidMailTitle'] = 'Ha olvidado mi contrase&#241;a en el juego : %s';
+$LNG['passwordValidMailSend'] = 'Usted recibirá un correo electrónico en breve con más información.';
 
-$LNG['passwordValidInValid']		= 'Invalid Request!';
-$LNG['passwordChangedMailSend']		= 'You will receive an email shortly with your new password.';
-$LNG['passwordChangedMailTitle']	= 'New password on the game: %s';
+$LNG['passwordValidInValid']		= 'Solicitud no válida!';
+$LNG['passwordChangedMailSend']		= 'Usted recibirá un correo electrónico en breve con su nueva contrase&#241;a.';
+$LNG['passwordChangedMailTitle']	= 'Nueva contrase&#241;a en el juego : %s';
 
-$LNG['passwordBack']				= 'Back';
-$LNG['passwordNext']				= 'Next';
+$LNG['passwordBack']				= 'Atrás';
+$LNG['passwordNext']				= 'Siguiente';
 
 //case default
 
-$LNG['login_error_1']				= 'Wrong username/password!';
-$LNG['login_error_2']				= 'Someone has logged in from a different PC in your account, or your IP is different!';
-$LNG['login_error_3']				= 'Your session has expired!';
-$LNG['login_error_4']				= 'There was an error in external authorization, please try again!';
+$LNG['login_error_1']				= 'Nombre de usuario / contrase&#241;a incorrecto !';
+$LNG['login_error_2']				= 'Alguien ha entrado desde un PC diferente en su cuenta o su dirección IP es diferente!';
+$LNG['login_error_3']				= 'Su sesión ha caducado!';
+$LNG['login_error_4']				= 'Se ha producido un error en la autorización externa , por favor intente de nuevo!';
 
 //Rules
-$LNG['rulesHeader']					= 'Rules';
+$LNG['rulesHeader']					= 'Reglas';
 
 //NEWS
-$LNG['news_overview']				= 'News';
-$LNG['news_from']					= 'On %s by %s';
-$LNG['news_does_not_exist']			= 'No news available!';
+$LNG['news_overview']				= 'Noticias';
+$LNG['news_from']					= 'En %s por %s';
+$LNG['news_does_not_exist']			= 'No hay noticias disponibles!';
 
 //Impressum
-$LNG['disclamerLabelAddress']		= 'Game Address:';
-$LNG['disclamerLabelPhone']			= 'Telephone Nr.:';
-$LNG['disclamerLabelMail']			= 'Support Email:';
-$LNG['disclamerLabelNotice']		= 'More information';
+$LNG['disclamerLabelAddress']		= 'Direccion del juego:';
+$LNG['disclamerLabelPhone']			= 'Numero Telefono.:';
+$LNG['disclamerLabelMail']			= 'Email de soporte:';
+$LNG['disclamerLabelNotice']		= 'Más información';
 
 /**
  * Ajout de toute la partie login
 **/
 
 /** main.footer.tpl **/
-$LNG['footer_title_block1']			= "Play";
-$LNG['footer_block1_menu1']			= "Register";
-$LNG['footer_block1_menu2']			= "Rules";
-$LNG['footer_block1_menu3']			= "News";
-$LNG['footer_block1_menu4']			= "About us";
-$LNG['footer_title_block2']			= "Account";
-$LNG['footer_block2_menu1']			= "Create an account";
-$LNG['footer_block2_menu2']			= "Recover your password";
-$LNG['footer_title_block3']			= "Communauty";
-$LNG['footer_block3_menu1']			= "Forum";
-$LNG['footer_block3_menu2']			= "We contacted";
-$LNG['footer_block3_menu3']			= "Gallery";
-$LNG['footer_block3_menu4']			= "Jobs";
-$LNG['footer_copy']					= "2015 &copy; %s ! - All rights reserved";
+$LNG['footer_title_block1']			= "Jugar";
+$LNG['footer_block1_menu1']			= "Registro";
+$LNG['footer_block1_menu2']			= "Reglas";
+$LNG['footer_block1_menu3']			= "Noticias";
+$LNG['footer_block1_menu4']			= "Acerca de nosotros";
+$LNG['footer_title_block2']			= "Cuenta";
+$LNG['footer_block2_menu1']			= "Create una cuenta";
+$LNG['footer_block2_menu2']			= "Recupera tu contrase&#241;a";
+$LNG['footer_title_block3']			= "Comunidad";
+$LNG['footer_block3_menu1']			= "Foro";
+$LNG['footer_block3_menu2']			= "Contacto";
+$LNG['footer_block3_menu3']			= "Galeria";
+$LNG['footer_block3_menu4']			= "Trabajo";
+$LNG['footer_copy']					= "2015 &copy; %s ! - Reservados todos los derechos";
 // pour le popup pour le login
-$LNG['popup_login_title']			= "Login to your account";
-$LNG['popup_login_login']			= "Mail address";
-$LNG['popup_login_mdp']				= "Password";
-$LNG['popup_login_souvient']		= "Remember me";
-$LNG['popup_login_button']			= "This Connected";
-$LNG['popup_login_account']			= "Create an account";
-$LNG['popup_login_recover']			= "Recover your password";
+$LNG['popup_login_title']			= "Accede a tu cuenta";
+$LNG['popup_login_login']			= "Correo Electronico";
+$LNG['popup_login_mdp']				= "Contrase&#241;a";
+$LNG['popup_login_souvient']		= "Acuerdate de mi";
+$LNG['popup_login_button']			= "Entrar";
+$LNG['popup_login_account']			= "Create una cuenta";
+$LNG['popup_login_recover']			= "Recupera tu contrase&#241;a";
 
 /** main.header.tpl **/
-$LNG['header_meta_keywords']		= "Xnova Revolution, XNova, 2Moons, Space, Private, Server, Speed";
-$LNG['header_meta_description']		= "is a management game / massively multiplayer strategy browser based on a science fiction universe entirely invented";
+$LNG['header_meta_keywords']		= "Illium, drnefarious360, youtube, xbox360, Private, Server, premium";
+$LNG['header_meta_description']		= "es un juego de navegador de estrategia multijugador masivo basado en un universo de ciencia ficción enteramente inventado";
 
 /** main.navigation.tpl **/
-$LNG['main_navigation_menu_head1']	= "Welcome to the wonderful world of space!";
-$LNG['main_navigation_menu_head2']	= "Sign in";
-$LNG['main_navigation_menu_head3']	= "Sign up";
-$LNG['main_navigation_menu1']		= "Register";
-$LNG['main_navigation_menu2']		= "Home";
-$LNG['main_navigation_menu3']		= "About Us";
-$LNG['main_navigation_menu4']		= "Gallery";
-$LNG['main_navigation_menu5']		= "Forum";
+$LNG['main_navigation_menu_head1']	= "Bienvenido al maravilloso mundo del espacio!";
+$LNG['main_navigation_menu_head2']	= "Registrarse";
+$LNG['main_navigation_menu_head3']	= "Iniciar sesion";
+$LNG['main_navigation_menu1']		= "Registrate";
+$LNG['main_navigation_menu2']		= "Inicio";
+$LNG['main_navigation_menu3']		= "Acerca de nosotros";
+$LNG['main_navigation_menu4']		= "Galeria";
+$LNG['main_navigation_menu5']		= "Foro";
 $LNG['main_navigation_menu6']		= "Wiki";
