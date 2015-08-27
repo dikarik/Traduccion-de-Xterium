@@ -12,7 +12,7 @@ $LNG['siteTitleBattleHall']			= 'Hall de la batalla';
 $LNG['siteTitleRules']				= 'Reglas';
 $LNG['siteTitleNews']				= 'Noticias';
 $LNG['siteTitleDisclamer']			= 'Contactos';
-$LNG['siteTitleLostPassword']		= 'Contraseña perdida?';
+$LNG['siteTitleLostPassword']		= 'Contrase&#241;a perdida?';
 
 // Menu
 $LNG['forum']						= 'Foro';
@@ -32,42 +32,42 @@ $LNG['uni_closed']					= ' (Cerrado)';
 // Button
 $LNG['buttonRegister']				= 'Registrate!';
 $LNG['buttonScreenshot']			= 'Capturas de pantalla';
-$LNG['buttonLostPassword']			= 'Contraseña perdida?';
+$LNG['buttonLostPassword']			= 'Contrase&#241;a perdida?';
 
 // Start
 $LNG['gameInformations']			= array(
 	'Un juego de estrategia espacial en tiempo real.',
 'Juego con cientos de usuarios.',
-'No se descarga, sólo se requiere un navegador estándar.',
-'Inscripción gratuita',
+'No se descarga, solo se requiere un navegador estandar.',
+'Inscripcion gratuita',
 );
 
 // Login
 $LNG['loginHeader']					= 'Iniciar sesion';
 $LNG['loginUsername']				= 'Usuario';
 $LNG['loginEmail']				= 'E-mail';
-$LNG['loginPassword']				= 'Contraseña';
+$LNG['loginPassword']				= 'Contrase&#241;a';
 $LNG['loginButton']					= 'Inicio';
 $LNG['loginInfo']					= 'Con el registro acepto los %s.';
 $LNG['loginWelcome']				= 'Bienvenido a %s';
-$LNG['loginServerDesc']				= '%s es un juego de estrategia en el espacio con cientos de jugadores jugando juntos <strong> al mismo tiempo tratar de ser el mejor. Todo lo que necesita para jugar es un navegador estándar.';
+$LNG['loginServerDesc']				= '%s es un juego de estrategia en el espacio con cientos de jugadores jugando juntos <strong> al mismo tiempo tratar de ser el mejor. Todo lo que necesita para jugar es un navegador estandar.';
 
 // Register
 $LNG['registerFacebookAccount']		= 'Cuenta de Facebook';
 $LNG['registerUsername']			= 'Usuario';
-$LNG['registerUsernameDesc']		= 'El nombre de usuario debe tener al menos 3 y un máximo de 25 caracteres y puntos, y puede consistir en números, letras, guiones bajos y espacios';
-$LNG['registerPassword']			= 'Contraseña';
-$LNG['registerPasswordDesc']		= 'La contraseña debe tener al menos 8 caracteres de longitud.';
-$LNG['registerPasswordReplay']		= 'Repetir contraseña';
-$LNG['registerPasswordReplayDesc']	= 'Por favor, introduzca la misma contraseña.';
+$LNG['registerUsernameDesc']		= 'El nombre de usuario debe tener al menos 3 y un maximo de 25 caracteres y puntos, y puede consistir en numeros, letras, guiones bajos y espacios';
+$LNG['registerPassword']			= 'Contrase&#241;a';
+$LNG['registerPasswordDesc']		= 'La contrase&#241;a debe tener al menos 8 caracteres de longitud.';
+$LNG['registerPasswordReplay']		= 'Repetir contrase&#241;a';
+$LNG['registerPasswordReplayDesc']	= 'Por favor, introduzca la misma contrase&#241;a.';
 $LNG['registerEmail']				= 'E-Mail';
-$LNG['registerEmailDesc']			= 'Por favor, introduzca su dirección de correo electrónico!';
+$LNG['registerEmailDesc']			= 'Por favor, introduzca su direccion de correo electronico!';
 $LNG['registerEmailReplay']			= 'Repite E-Mail';
-$LNG['registerEmailReplayDesc']		= 'Por favor, introduzca su dirección de correo electrónico, una vez más a la seguridad!';
+$LNG['registerEmailReplayDesc']		= 'Por favor, introduzca su direccion de correo electronico, una vez mas a la seguridad!';
 $LNG['registerLanguage']			= 'Lenguaje';
 $LNG['registerReferral']			= 'Anunciado por:';
-$LNG['registerCaptcha']				= 'Código de seguridad';
-$LNG['registerCaptchaDesc']			= 'Por favor ingrese los caracteres a continuación en el campo vacío. No tiene por mayúsculas y minúsculas';
+$LNG['registerCaptcha']				= 'Codigo de seguridad';
+$LNG['registerCaptchaDesc']			= 'Por favor ingrese los caracteres a continuacion en el campo vacío. No tiene por mayusculas y minusculas';
 $LNG['registerCaptchaReload']		= 'Recargar Captcha.';
 $LNG['registerRules']				= 'Reglas';
 $LNG['registerRulesDesc']			= 'Estoy de acuerdo con la %s';
@@ -75,47 +75,45 @@ $LNG['registerRulesDesc']			= 'Estoy de acuerdo con la %s';
 $LNG['registerBack']				= 'Atras';
 $LNG['registerNext']				= 'Siguiente';
 
-$LNG['registerErrorUniClosed']		= 'El registro está cerrado en este universo.!';
+$LNG['registerErrorUniClosed']		= 'El registro esta cerrado en este universo.!';
 $LNG['registerErrorUsernameEmpty']	= 'Debe ingresar un nombre de usuario!';
-$LNG['registerErrorUsernameChar']	= 'Su nombre de usuario debe consistir en números, letras, espacios!';
-$LNG['registerErrorUsernameExist']	= 'El nombre de usuario ya está en uso!';
-$LNG['registerErrorPasswordLength']	= 'La contraseña debe tener al menos 6 caracteres de longitud!';
-$LNG['registerErrorPasswordSame']	= 'Introduzca 2 contraseñas diferentes!';
-$LNG['registerErrorMailEmpty']		= 'Debe especificar una dirección de correo electrónico!';
-$LNG['registerErrorMailInvalid']	= 'Dirección E-Mail no válida!';
+$LNG['registerErrorUsernameChar']	= 'Su nombre de usuario debe consistir en numeros, letras, espacios!';
+$LNG['registerErrorUsernameExist']	= 'El nombre de usuario ya esta en uso!';
+$LNG['registerErrorPasswordLength']	= 'La contrase&#241;a debe tener al menos 6 caracteres de longitud!';
+$LNG['registerErrorPasswordSame']	= 'Introduzca 2 contrase&#241;as diferentes!';
+$LNG['registerErrorMailEmpty']		= 'Debe especificar una direccion de correo electronico!';
+$LNG['registerErrorMailInvalid']	= 'Direccion E-Mail no valida!';
 $LNG['registerErrorMailInvalid2']	= 'No aceptamos E-Mail durante 10 minutos!';
-$LNG['registerErrorMailSame']		= 'Ha especificado 2 direcciones de correo electrónico diferentes!';
-$LNG['registerErrorMailExist']		= 'La dirección de correo electrónico ya está registrado!';
+$LNG['registerErrorMailSame']		= 'Ha especificado 2 direcciones de correo electronico diferentes!';
+$LNG['registerErrorMailExist']		= 'La direccion de correo electronico ya esta registrado!';
 $LNG['registerErrorRules']			= 'Aceptas las reglas!';
-$LNG['registerErrorCaptcha']		= 'El código de seguridad es incorrecto!';
+$LNG['registerErrorCaptcha']		= 'El codigo de seguridad es incorrecto!';
 
-$LNG['registerMailVertifyTitle']	= 'La activación de la inscripción en el juego: %s';
+$LNG['registerMailVertifyTitle']	= 'La activacion de la inscripcion en el juego: %s';
 $LNG['registerMailVertifyError']	= 'Error al enviar el correo: %s';
 
 $LNG['registerMailCompleteTitle']	= 'Bienvenido a %s!';
 
-$LNG['registerSendComplete']		= 'Gracias por el registro usted. Usted debe consultar su correo electrónico (atención con el SPAM) con más información.';
+$LNG['registerSendComplete']		= 'Gracias por el registro usted. Usted debe consultar su correo electronico (atencion con el SPAM) con mas informacion.';
 
 $LNG['registerWelcomePMSenderName']	= 'Administrator';
-$LNG['registerWelcomePMSubject']	= 'Welcome';
-$LNG['registerWelcomePMText']		= 'Welcome to %s! First build a solar power plant,because energy is needed for the production of raw materials. To build one, left click in the menu on "buildings". Then build the 4th Building from the top. </br> When you have energy, you can begin to build mines. Go to buildings on the menu and build a metal mine, followed by a crystal mine. </br></br>In order to be able to build ships you need to have a shipyard. To see what is needed to unlock that building you can take a look at "Technologies" at the left menu.</br>If you more questions you can look at the beginnersguide, our forum or open a support ticket. </br></br> The team wishes you much fun exploring the universe!';
+$LNG ['registerWelcomePMSubject'] = 'Bienvenido';
+$LNG ['registerWelcomePMText'] = ' Bienvenido a %s! Primero construir una planta de energía solar, porque se necesita energía para la produccion de materias primas. Para construir uno, a la izquierda haga clic en el menu de "edificios". Luego construir el edificio 4 de la parte superior. </br> Cuando tengas energía, usted puede comenzar a construir minas. Ir a los edificios en el menu y construir un metal mina, seguido de un cristal de mina. </br></br> Con el fin de poder construir naves necesita tener un astillero. Para ver lo que se necesita para desbloquear que edificio te puede echar un vistazo a "Tecnologías" en el menu de la izquierda.</br> Si usted mas preguntas usted puede mirar el beginnersguide, nuestro foro o abrir un ticket de soporte. </br></br> El equipo le desea mucha diversion explorando el universo!';
 
 //Vertify
 
-$LNG['vertifyNoUserFound']			= 'Invalid Request!';
-$LNG['vertifyAdminMessage']			= 'The username "%s" has enabled!';
+$LNG ['vertifyNoUserFound'] = 'solicitud no valida !';
+$LNG ['vertifyAdminMessage'] = 'el nombre de usuario "%s" disponible!';
 
-
-//lostpassword
-$LNG['passwordInfo']				= 'If you have forgotten your password, you must specify the user name and the E-Mail address that you have entered in your account.';
-$LNG['passwordUsername']			= 'Username';
-$LNG['passwordMail']				= 'E-Mail';
-$LNG['passwordCaptcha']				= 'Security code';
-$LNG['passwordSubmit']				= 'Submit';
-$LNG['passwordErrorUsernameEmpty']	= 'You have no specified the Username!';
-$LNG['passwordErrorMailEmpty']		= 'You have specified an unknown email address!';
-$LNG['passwordErrorUnknown']		= 'It could not be found with the account data.';
-$LNG['passwordErrorOnePerDay']		= 'Password for this user account in the last 24 hours previously requested. You can only request the password for this user account in  next 24 hours. ';
+$LNG ['passwordInfo'] = 'Si ha olvidado su contrase&#241;a, debe especificar el nombre de usuario y la direccion de correo electronico que has introducido en tu cuenta.';
+$LNG ['passwordUsername'] = 'Nombre de usuario';
+$LNG ['passwordMail'] = 'E-Mail';
+$LNG ['passwordCaptcha'] = 'Codigo seguridad';
+$LNG ['passwordSubmit'] = 'Enviar';
+$LNG ['passwordErrorUsernameEmpty'] ='no especifico el nombre de usuario.';
+$LNG ['passwordErrorMailEmpty'] = 'Ha especificado una direccion de correo desconocida!';
+$LNG ['passwordErrorUnknown'] = 'no puede ser encontrado con los datos de la cuenta.';
+$LNG ['passwordErrorOnePerDay'] = ' contrase&#241;a para esta cuenta de usuario en las ultimas 24 horas se le pidio anteriormente. Solo puede solicitar la contrase&#241;a para esta cuenta de usuario en las proximas 24 horas. ';
 
 $LNG['passwordValidMailTitle']		= 'Forgot my password on the game: %s';
 $LNG['passwordValidMailSend']		= 'You will receive an email shortly with further information.';
